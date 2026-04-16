@@ -9,6 +9,6 @@ Certified in:
 <br>
 Connect with me:
 <p>
-<a> <img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibnOL0kr81rBhHyhghV0JqJ0_pGdVU6p0eOWBihPbWw&s"</a> href="http://www.linkedin.com/in/jade-lugros-b098513a1">
+<a href="http://www.linkedin.com/in/jade-lugros-b098513a1"> <img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibnOL0kr81rBhHyhghV0JqJ0_pGdVU6p0eOWBihPbWw&s"</a>
 
 </p>
