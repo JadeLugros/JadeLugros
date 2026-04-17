@@ -1,3 +1,4 @@
+<img src="github-header-banner (2).png">
 ## Hi there 💻📱
 
 I am a programming student passionate about code, currently studying Javascript.
