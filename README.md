@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/JadeLugros/JadeLugros/main/github-banner.png"/>
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/JadeLugros/SEU-REPO/main/github-banner.png"/>
 </p>
 <h1 align="center">Hi 👋, I'm Jade</h1>
