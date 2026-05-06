@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.png"/>
+</p>
 <h1 align="center">Hi 👋, I'm Jade</h1>
 
 <p align="center">
