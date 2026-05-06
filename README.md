@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.png"/>
+  <img src="https://raw.githubusercontent.com/JadeLugros/SEU-REPO/main/github-banner.png"/>
 </p>
 <h1 align="center">Hi 👋, I'm Jade</h1>
 
